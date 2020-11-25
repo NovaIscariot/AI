@@ -1,20 +1,19 @@
-﻿Tabletop_games:
-  Duel:
+﻿Duel:
     Card:
       TCG:
         Magic The Gathering:
+          name: "Magic The Gathering"
           age_rating: 14
           avg_duration: 20
-          user_rating: 0
           max_players: 2
           out_of_stack: False
           min_cost: 890
           year: 1993
           company: Wizards of The Coast
         Berserk:
+          name: "Berserk Heroes"
           age_rating: 12
           avg_duration: 20
-          user_rating: 0
           max_players: 2
           out_of_stack: False
           min_cost: 490
@@ -23,18 +22,18 @@
       LCG:
         Netrunner:
           Core Set:
+            name: "Netrunner: Core Set"
             age_rating: 14
             avg_duration: 45
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 3690
             year: 2016
             company: Fantasy Flight Games
           Terminal Directive:
+            name: "Netrunner: Terminal Directive"
             age_rating: 14
             avg_duration: 45
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 3490
@@ -42,18 +41,18 @@
             company: Fantasy Flight Games
         Keyforge:
           Call of the Archons:
+            name: "Keyforge: Call of the Archons"
             age_rating: 14
             avg_duration: 45
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 890
             year: 2019
             company: Fantasy Flight Games
           Worlds Collide:
+            name: "Keyforge: Worlds Collide"
             age_rating: 14
             avg_duration: 45
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 990
@@ -64,100 +63,100 @@
         Warhammer:
           Warhammer 40000:
             Recruit Edition:
+              name: "Warhammer 40000: Recruit Edition"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 3250
               year: 2020
               company: Games Workshop
             Elite Edition:
+              name: "Warhammer 40000: Elite Edition"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6500
               year: 2020
               company: Games Workshop
             Command Edition:
+              name: "Warhammer 40000: Command Edition"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 10500
               year: 2020
               company: Games Workshop
             Start Collecting! Adeptus Mechanicus:
+              name: "Warhammer 40000: Start Collecting! Adeptus Mechanicus"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6000
               year: 2020
               company: Games Workshop
             Start Collecting! Vanguard Space Marines:
+              name: "Warhammer 40000: Start Collecting! Vanguard Space Marines"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6000
               year: 2019
               company: Games Workshop
             Start collecting! Thousand sons:
+              name: "Warhammer 40000: Start Collecting! Thousand sons"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6000
               year: 2019
               company: Games Workshop
             Start Collecting! Genestealer cults:
+              name: "Warhammer 40000: Start Collecting! Genestealer cults"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6000
               year: 2020
               company: Games Workshop
             Start Collecting! T'au Empire:
+              name: "Warhammer 40000: Start Collecting! T'au Empire"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6000
               year: 2017
               company: Games Workshop
             Start Collecting! Blood Angels:
+              name: "Warhammer 40000: Start Collecting! Blood Angels"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 6000
               year: 2018
               company: Games Workshop
-          Warhammer Age_of_Sigmar:
+          Warhammer Age of Sigmar:
             Aether War:
+              name: "Warhammer Age of Sigmar: Aether War"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 11000
               year: 2020
               company: Games Workshop
             Storm Strike:
+              name: "Warhammer Age of Sigmar: Storm Strike"
               age_rating: 12
               avg_duration: 60
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 5000
@@ -165,9 +164,9 @@
               company: Games Workshop
           Warhammer Killteam:
             Starter Set:
+              name: "Warhammer Killteam: Starter Set"
               age_rating: 12
               avg_duration: 30
-              user_rating: 0
               max_players: 2
               out_of_stack: False
               min_cost: 9500
@@ -175,9 +174,9 @@
               company: Games Workshop
         Song of Fire and Ice:
           Stark vs Lannister Starter Set:
+            name: "Song of Fire and Ice: Stark vs Lannister Starter Set"
             age_rating: 13
             avg_duration: 45
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 9900
@@ -185,18 +184,18 @@
             company: Hobby World
         X-wing:
           Miniatures Game:
+            name: " X-wing: Miniatures Game"
             age_rating: 14
             avg_duration: 30
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 2800
             year: 2012
             company: Fantasy Flight Games
-          The Force Awakens Core Set :
+          The Force Awakens Core Set:
+            name: " X-wing: The Force Awakens Core Set"
             age_rating: 14
             avg_duration: 30
-            user_rating: 0
             max_players: 2
             out_of_stack: False
             min_cost: 2800
@@ -206,7 +205,6 @@
         Chess:
           age_rating: 7
           avg_duration: 30
-          user_rating: 0
           max_players: 2
           out_of_stack: False
           min_cost: 1490
@@ -215,7 +213,6 @@
         Draughts:
           age_rating: 5
           avg_duration: 10
-          user_rating: 0
           max_players: 2
           out_of_stack: False
           min_cost: 690
@@ -224,207 +221,185 @@
         Backgammon:
           age_rating: 7
           avg_duration: 10
-          user_rating: 0
           max_players: 2
           out_of_stack: False
           min_cost: 1090
           year: 2013
           company: Tactic
-  Multiplayers:
-    Short:
-      Card:
-        Uno:
-          age_rating: 7
-          avg_duration: 15
-          user_rating: 0
-          max_players: 10
-          out_of_stack: False
-          min_cost: 550
-          year: 2019
-          company: Mattel
-        Love Letter:
-          age_rating: 10
-          avg_duration: 20
-          user_rating: 0
-          max_players: 8
-          out_of_stack: False
-          min_cost: 990
-          year: 2018
-          company: Hobby World
-        BANG!:
+Multiplayers:
+  Short:
+    Card:
+      Uno:
+        age_rating: 7
+        avg_duration: 15
+        max_players: 10
+        out_of_stack: False
+        min_cost: 550
+        year: 2019
+        company: Mattel
+      Love Letter:
+        age_rating: 10
+        avg_duration: 20
+        max_players: 8
+        out_of_stack: False
+        min_cost: 990
+        year: 2018
+        company: Hobby World
+      BANG!:
+        age_rating: 12
+        avg_duration: 20
+        max_players: 7
+        out_of_stack: False
+        min_cost: 890
+        year: 2012
+        company: Hobby World
+      Red Dragin Inn:
+        age_rating: 18
+        avg_duration: 30
+        max_players: 4
+        out_of_stack: False
+        min_cost: 1490
+        year: 2016
+        company: Hobby World
+      Munchkin:
+        age_rating: 12
+        avg_duration: 30
+        max_players: 6
+        out_of_stack: False
+        min_cost: 990
+        year: 2012
+        company: Hobby World
+    Speak:
+      Alias:
+        age_rating: 10
+        avg_duration: 60
+        max_players: 4
+        out_of_stack: False
+        min_cost: 1490
+        year: 2015
+        company: Tactic
+      Spyfall:
+        age_rating: 12
+        avg_duration: 15
+        max_players: 8
+        out_of_stack: False
+        min_cost: 890
+        year: 2015
+        company: Hobby World
+      Codenames:
+        age_rating: 10
+        avg_duration: 15
+        max_players: 8
+        out_of_stack: False
+        min_cost: 1390
+        year: 2016
+        company: GaGa Games
+      Dixit:
+        age_rating: 8
+        avg_duration: 30
+        max_players: 6
+        out_of_stack: False
+        min_cost: 2190
+        year: 2010
+        company: Стиль Жизни
+      Mafia:
+        age_rating: 14
+        avg_duration: 20
+        max_players: 17
+        out_of_stack: False
+        min_cost: 1990
+        year: 2012
+        company: Hobby World
+  Long:
+    Strategy:
+      Android New Angeles:
+        age_rating: 14
+        avg_duration: 180
+        max_players: 6
+        out_of_stack: False
+        min_cost: 4900
+        year: 2017
+        company: Fantasy Flight Games
+      Catan:
+        age_rating: 10
+        avg_duration: 60
+        max_players: 4
+        out_of_stack: False
+        min_cost: 2490
+        year: 2016
+        company: Hobby World
+      Civilization:
+        age_rating: 13
+        avg_duration: 180
+        max_players: 4
+        out_of_stack: False
+        min_cost: 4990
+        year: 2011
+        company: Hobby World
+      Game of Thrones:
+        age_rating: 13
+        avg_duration: 145
+        max_players: 6
+        out_of_stack: False
+        min_cost: 3990
+        year: 2012
+        company: Hobby World
+      Smallworld:
+        age_rating: 8
+        avg_duration: 60
+        max_players: 5
+        out_of_stack: False
+        min_cost: 3490
+        year: 2016
+        company: Hobby World
+    Roleplay:
+      Cooperative:
+        Dungeon And Dragons:
           age_rating: 12
-          avg_duration: 20
-          user_rating: 0
-          max_players: 7
-          out_of_stack: False
-          min_cost: 890
-          year: 2012
-          company: Hobby World
-        Red Dragin Inn:
-          age_rating: 18
-          avg_duration: 30
-          user_rating: 0
-          max_players: 4
-          out_of_stack: False
-          min_cost: 1490
-          year: 2016
-          company: Hobby World
-        Munchkin:
-          age_rating: 12
-          avg_duration: 30
-          user_rating: 0
+          avg_duration: 240
           max_players: 6
-          out_of_stack: False
-          min_cost: 990
-          year: 2012
-          company: Hobby World
-      Speak:
-        Alias:
-          age_rating: 10
-          avg_duration: 60
-          user_rating: 0
-          max_players: 4
-          out_of_stack: False
-          min_cost: 1490
-          year: 2015
-          company: Tactic
-        Spyfall:
-          age_rating: 12
-          avg_duration: 15
-          user_rating: 0
-          max_players: 8
-          out_of_stack: False
-          min_cost: 890
-          year: 2015
-          company: Hobby World
-        Codenames:
-          age_rating: 10
-          avg_duration: 15
-          user_rating: 0
-          max_players: 8
-          out_of_stack: False
-          min_cost: 1390
-          year: 2016
-          company: GaGa Games
-        Dixit:
-          age_rating: 8
-          avg_duration: 30
-          user_rating: 0
-          max_players: 6
-          out_of_stack: False
-          min_cost: 2190
-          year: 2010
-          company: Стиль Жизни
-        Mafia:
-          age_rating: 14
-          avg_duration: 20
-          user_rating: 0
-          max_players: 17
-          out_of_stack: False
-          min_cost: 1990
-          year: 2012
-          company: Hobby World
-    Long:
-      Strategy:
-        Android New Angeles:
-          age_rating: 14
-          avg_duration: 180
-          user_rating: 0
-          max_players: 6
-          out_of_stack: False
-          min_cost: 4900
-          year: 2017
-          company: Fantasy Flight Games
-        Catan:
-          age_rating: 10
-          avg_duration: 60
-          user_rating: 0
-          max_players: 4
           out_of_stack: False
           min_cost: 2490
-          year: 2016
+          year: 2019
           company: Hobby World
-        Civilization:
+        Pathfinder:
           age_rating: 13
-          avg_duration: 180
-          user_rating: 0
+          avg_duration: 90
           max_players: 4
           out_of_stack: False
-          min_cost: 4990
-          year: 2011
+          min_cost: 2990
+          year: 2020
           company: Hobby World
-        Game of Thrones:
-          age_rating: 13
+        Descent:
+          age_rating: 14
           avg_duration: 145
-          user_rating: 0
+          max_players: 5
+          out_of_stack: False
+          min_cost: 5990
+          year: 2014
+          company: Hobby World
+        Arkham Horror:
+          age_rating: 14
+          avg_duration: 145
           max_players: 6
           out_of_stack: False
           min_cost: 3990
-          year: 2012
+          year: 2019
           company: Hobby World
-        Smallworld:
-          age_rating: 8
-          avg_duration: 60
-          user_rating: 0
-          max_players: 5
+      Non-cooperative:
+        Talisman:
+          age_rating: 12
+          avg_duration: 120
+          max_players: 6
           out_of_stack: False
-          min_cost: 3490
-          year: 2016
-          company: Hobby World
-      Roleplay:
-        Cooperative:
-          Dungeon And Dragons:
-            age_rating: 12
-            avg_duration: 240
-            user_rating: 0
-            max_players: 6
-            out_of_stack: False
-            min_cost: 2490
-            year: 2019
-            company: Hobby World
-          Pathfinder:
-            age_rating: 13
-            avg_duration: 90
-            user_rating: 0
-            max_players: 4
-            out_of_stack: False
-            min_cost: 2990
-            year: 2020
-            company: Hobby World
-          Descent:
-            age_rating: 14
-            avg_duration: 145
-            user_rating: 0
-            max_players: 5
-            out_of_stack: False
-            min_cost: 5990
-            year: 2014
-            company: Hobby World
-          Arkham Horror:
-            age_rating: 14
-            avg_duration: 145
-            user_rating: 0
-            max_players: 6
-            out_of_stack: False
-            min_cost: 3990
-            year: 2019
-            company: Hobby World
-        Non-cooperative:
-          Talisman:
-            age_rating: 12
-            avg_duration: 120
-            user_rating: 0
-            max_players: 6
-            out_of_stack: False
-            min_cost: 4590
-            year: 2020
-            company: Стиль Жизни
-          Relic:
-            age_rating: 14
-            avg_duration: 180
-            user_rating: 0
-            max_players: 4
-            out_of_stack: True
-            min_cost: 6000
-            year: 2013
-            company: Fantasy Flight Games
+          min_cost: 4590
+          year: 2020
+          company: Стиль Жизни
+        Relic:
+          age_rating: 14
+          avg_duration: 180
+          max_players: 4
+          out_of_stack: True
+          min_cost: 6000
+          year: 2013
+          company: Fantasy Flight Games
